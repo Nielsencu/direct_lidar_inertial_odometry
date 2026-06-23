@@ -69,8 +69,7 @@
     odom/imu/unit_check/accel_scale_override: 0.0
     odom/imu/unit_check/gyro_scale_override: 0.0
 
-    odom/preprocessing/
-Filter/size: 1.0
+    odom/preprocessing/cropBoxFilter/size: 1.0
     odom/preprocessing/voxelFilter/res: 0.5
 
     odom/keyframe/threshD: 10.0
